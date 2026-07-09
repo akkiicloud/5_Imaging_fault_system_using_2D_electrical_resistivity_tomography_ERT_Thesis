@@ -1,0 +1,1 @@
+# Imaging_fault_system_using_2D_electrical_resistivity_tomography_-ERT-
