@@ -15,4 +15,4 @@ pyGIMLi inversion workflows, including classical smoothness-constrained inversio
 4_ERT_Modeling
 Synthetic modeling and Smoothness-Constrained Geometry-Preserving Inversion (SCGPI) scripts used to investigate different fault representations and evaluate inversion performance.
 
-Together, these repositories provide the complete workflow of the study, from field data acquisition and preprocessing to inversion, modeling, interpretation, and the final thesis.
+Together, these repositories provide the complete workflow of the study, from field data acquisition and preprocessing to inversion, modeling, interpretation, and the final thesis (Akash_Gupta_Thesis).
